@@ -1,0 +1,10 @@
+what is node?
+
+node is a javascript run time environment built over chrome v8  engine and c++ for executing javascript code.
+ it can be used for buliding highly scalable , data intensive and real time apps
+
+node architecture?
+
+node works on asynchronous architechture / non blocking architecture , ie a thread is assigned to a particular work and when the work is being executed ,and the thread is free, it gets assigned to another work , thus utilising server and memory efficiently and reducing cost of operation.
+
+
