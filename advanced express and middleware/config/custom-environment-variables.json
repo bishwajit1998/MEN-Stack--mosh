@@ -1,0 +1,10 @@
+//here we define the mapping of config settngs to env variables
+{
+	"name": "my express app - development"
+	"mail": {
+
+		"host": "dev-mail-server",
+		"password": "app-password"
+
+	}
+}
