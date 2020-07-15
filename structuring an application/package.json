@@ -1,0 +1,20 @@
+{
+  "name": "jeet",
+  "version": "1.0.0",
+  "description": "how to structure an application and organise the code into differnt files and connect them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bishwajit",
+  "license": "ISC"
+   "dependencies": {
+    "config": "^3.3.1",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "joi": "^14.3.1",
+    "logger": "0.0.1",
+    "morgan": "^1.10.0"
+  }
+}
