@@ -18,10 +18,10 @@ function getUser(id){
 
 /*this code will give an output as before..undefined ..after
 the reason is because we call the funcion getUsername and inside 
-the functiuon is a settineout so that function executes 2 seconds after the 
+the functiuon is a settimeout so that function executes 2 seconds after the 
 parent function call 
-so the is that we pass to the getusername is not available 
+so the id that we pass to the getusername is not available 
 to the settimer function when it is being executed
 
-ti deal with thgis problem we use patterns for dealing with 
+to deal with this problem we use patterns for dealing with 
 asynchronous code */
