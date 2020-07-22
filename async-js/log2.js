@@ -1,5 +1,4 @@
-// technique to avoid CALLBACKS HELL(nested callback functions (asynchronous functions just below))
-
+//PROMISE
 
 console.log('Before');
 
@@ -17,11 +16,6 @@ function displayCommits(commits){
 }
 
 
- //there are three patterns to deal with asynchronous code
-
- // 1.Callbacks
- //Promises
- //Async/await(just a syntactical sugar over promises)
  function getUser(id,callback){
 	setTimeout(()=>{
     console.log("reading a user from database..");
